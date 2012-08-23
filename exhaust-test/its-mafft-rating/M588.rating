@@ -1,0 +1,18 @@
+alignment-file-rated: its-mafft/M588.fst
+GLOCSA: 				86.63420222815881
+
+meanColumnValue: 			0.09949119199866127
+gapConcentration: 			2.664535038635758E-4
+columnIncrementRatio: 			0.6431159420289856
+
+meanGapBlockSize: 			29.0804689581668
+totalGapPositions: 			109139
+numberGapBlocks: 			3753
+columnsNotAligned: 			1104
+columnsAligned: 			1814
+
+estimatedEvents: 			2503
+
+substitutionEvents: 			2243
+inDelEvents: 				260
+

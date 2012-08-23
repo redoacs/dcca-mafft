@@ -1,0 +1,18 @@
+alignment-file-rated: artificial-dcca-10/art-14.fst
+GLOCSA: 				515.62929271796
+
+meanColumnValue: 			0.5155983680870353
+gapConcentration: 			0.004273504273504274
+columnIncrementRatio: 			0.0027272727272726893
+
+meanGapBlockSize: 			25.5
+totalGapPositions: 			5967
+numberGapBlocks: 			234
+columnsNotAligned: 			1100
+columnsAligned: 			1103
+
+estimatedEvents: 			771
+
+substitutionEvents: 			671
+inDelEvents: 				100
+

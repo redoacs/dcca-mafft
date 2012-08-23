@@ -1,0 +1,18 @@
+alignment-file-rated: artificial-einsi/art-28.fst
+GLOCSA: 				555.1915412402154
+
+meanColumnValue: 			0.5550590909090896
+gapConcentration: 			0.006622516556291391
+columnIncrementRatio: 			0.0
+
+meanGapBlockSize: 			36.13245033112583
+totalGapPositions: 			5456
+numberGapBlocks: 			151
+columnsNotAligned: 			1100
+columnsAligned: 			1100
+
+estimatedEvents: 			834
+
+substitutionEvents: 			746
+inDelEvents: 				88
+

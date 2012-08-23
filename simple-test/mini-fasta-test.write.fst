@@ -1,0 +1,10 @@
+>seq0
+-G-A--TTACA--G-A--TTACA-
+>seq1
+-G-AT--TACA--G-AT--TACA-
+>seq2
+-G-ATT--ACA--G-ATT--ACA-
+>seq3
+-G-ATTA--CA--G-ATTA--CA-
+>seq4
+-G-ATTACA--G-ATTACA-

@@ -1,0 +1,18 @@
+alignment-file-rated: its-einsi/M4828.fst
+GLOCSA: 				563.6225940365164
+
+meanColumnValue: 			0.5674663163497373
+gapConcentration: 			6.194635445704021E-5
+columnIncrementRatio: 			0.19224806201550382
+
+meanGapBlockSize: 			2.329616552065911
+totalGapPositions: 			37607
+numberGapBlocks: 			16143
+columnsNotAligned: 			645
+columnsAligned: 			769
+
+estimatedEvents: 			1379
+
+substitutionEvents: 			1108
+inDelEvents: 				271
+

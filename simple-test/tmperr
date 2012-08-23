@@ -1,0 +1,14 @@
+
+MUSCLE v3.8.31 by Robert C. Edgar
+
+http://www.drive5.com/muscle
+This software is donated to the public domain.
+Please cite: Edgar, R.C. Nucleic Acids Res 32(5), 1792-97.
+
+- 5 seqs, max length 14, avg  length 14
+00:00:00    10 MB(-3%)  Iter   1    6.67%  K-mer dist pass 100:00:00    10 MB(-3%)  Iter   1  100.00%  K-mer dist pass 1
+00:00:00    10 MB(-3%)  Iter   1    6.67%  K-mer dist pass 200:00:00    10 MB(-3%)  Iter   1  100.00%  K-mer dist pass 2
+00:00:00    10 MB(-3%)  Iter   1   25.00%  Align node       00:00:00    11 MB(-3%)  Iter   1   50.00%  Align node00:00:00    11 MB(-3%)  Iter   1   75.00%  Align node00:00:00    11 MB(-3%)  Iter   1  100.00%  Align node00:00:00    11 MB(-3%)  Iter   1  100.00%  Align node
+00:00:00    11 MB(-3%)  Iter   1   20.00%  Root alignment00:00:00    11 MB(-3%)  Iter   1   40.00%  Root alignment00:00:00    11 MB(-3%)  Iter   1   60.00%  Root alignment00:00:00    11 MB(-3%)  Iter   1   80.00%  Root alignment00:00:00    11 MB(-3%)  Iter   1  100.00%  Root alignment00:00:00    11 MB(-3%)  Iter   1  100.00%  Root alignment
+00:00:00    11 MB(-3%)  Iter   2  100.00%  Root alignment
+00:00:00    11 MB(-3%)  Iter   3   28.57%  Refine biparts00:00:00    11 MB(-3%)  Iter   3   42.86%  Refine biparts00:00:00    11 MB(-3%)  Iter   3   57.14%  Refine biparts00:00:00    11 MB(-3%)  Iter   3   71.43%  Refine biparts00:00:00    11 MB(-3%)  Iter   3   85.71%  Refine biparts00:00:00    11 MB(-3%)  Iter   3  100.00%  Refine biparts00:00:00    11 MB(-3%)  Iter   3  114.29%  Refine biparts00:00:00    11 MB(-3%)  Iter   3  100.00%  Refine biparts

@@ -1,0 +1,18 @@
+alignment-file-rated: its-dcca-10//M4828.fst
+GLOCSA: 				568.7453853130688
+
+meanColumnValue: 			0.5724029076719376
+gapConcentration: 			6.961849067112225E-5
+columnIncrementRatio: 			0.1829457364341085
+
+meanGapBlockSize: 			2.5531885268727375
+totalGapPositions: 			36674
+numberGapBlocks: 			14364
+columnsNotAligned: 			645
+columnsAligned: 			763
+
+estimatedEvents: 			1359
+
+substitutionEvents: 			1099
+inDelEvents: 				260
+

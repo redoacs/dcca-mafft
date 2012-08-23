@@ -1,0 +1,18 @@
+alignment-file-rated: artificial-mafft/art-26.fst
+GLOCSA: 				561.185750509268
+
+meanColumnValue: 			0.5611310063463272
+gapConcentration: 			0.00546448087431694
+columnIncrementRatio: 			0.0027272727272726893
+
+meanGapBlockSize: 			23.797814207650273
+totalGapPositions: 			4355
+numberGapBlocks: 			183
+columnsNotAligned: 			1100
+columnsAligned: 			1103
+
+estimatedEvents: 			927
+
+substitutionEvents: 			813
+inDelEvents: 				114
+
